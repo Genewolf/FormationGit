@@ -1,4 +1,4 @@
-# FormationGit
+# Formation Git P++
 
 Bienvenue à la formation Git de P++ !
 
